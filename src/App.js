@@ -53,7 +53,7 @@ class App extends Component {
 const styles = StyleSheet.create({
   app: {
     marginHorizontal: "auto",
-    maxWidth: 500
+    maxWidth: 600
   },
   logo: {
     height: 80
